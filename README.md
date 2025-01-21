@@ -1,29 +1,30 @@
 # ForoHub
 ForoHub es una API REST desarrollada con Spring Framework para gestionar un foro de discusión. Los usuarios pueden crear, leer, actualizar y eliminar tópicos (CRUD). La API está diseñada siguiendo las mejores prácticas del modelo REST, e incluye validaciones, autenticación/autorización y una base de datos relacional para la persistencia de la información.
 
-🌟 Características
-📝 Crear un nuevo tópico
-📖 Mostrar todos los tópicos creados
-🔍 Mostrar un tópico específico
-✏️ Actualizar un tópico
-🗑️ Eliminar un tópico
-✔️ Validaciones de las reglas de negocio
-🔒 Autenticación y autorización de usuarios
-🛠️ Tecnologías Utilizadas
-Java 11
-Spring Boot
-Spring Data JPA
-Spring Security
-Hibernate
-H2 Database (para desarrollo y pruebas)
-MySQL (para producción)
-Maven
-🚀 Instalación y Ejecución
-Prerrequisitos
-JDK 11 o superior
-Maven
-MySQL (para entorno de producción)
-Configuración
+- 🌟 Características
+- 📝 Crear un nuevo tópico
+- 📖 Mostrar todos los tópicos creados
+- 🔍 Mostrar un tópico específico
+- ✏️ Actualizar un tópico
+- 🗑️ Eliminar un tópico
+- ✔️ Validaciones de las reglas de negocio
+- 🔒 Autenticación y autorización de usuarios
+- 🛠️ Tecnologías Utilizadas
+- Java 11
+- Spring Boot
+- Spring Data JPA
+- Spring Security
+- Hibernate
+- H2 Database (para desarrollo y pruebas)
+- MySQL (para producción)
+- Maven
+- 🚀 Instalación y Ejecución
+
+# Prerrequisitos
+- JDK 11 o superior
+- Maven
+- MySQL (para entorno de producción)
+# Configuración
 Clonar el repositorio:
 
 git clone https://github.com/tu-usuario/ForoHub.git
