@@ -73,7 +73,7 @@ DELETE /api/topics/{id}
 🔐 Autenticación y Autorización
 La API usa Spring Security para la autenticación y autorización. Los usuarios deben autenticarse para acceder a los endpoints.
 
-✅ Validaciones
+# ✅ Validaciones
 Todos los campos son obligatorios al crear o actualizar un tópico.
 Los mensajes de error se devuelven en caso de fallos en las validaciones.
 🤝 Contribuir
@@ -82,5 +82,5 @@ Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
 Realiza tus cambios y haz un commit (git commit -m 'Agregar nueva funcionalidad').
 Sube los cambios a tu fork (git push origin feature/nueva-funcionalidad).
 Abre un Pull Request.
-📄 Licencia
+# 📄 Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
